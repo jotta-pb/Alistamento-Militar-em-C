@@ -1,0 +1,47 @@
+ALISTAMENTO MILITAR (REQUISITOS)
+
+· Mostrar data atual e logo abaixo mostrar quanto tempo falta para o último dia do alistamento obrigatório.
+  → (DD/MM/AA)
+    Faltam "tantos dias" para o último dia do alistamento (30 de junho de [ano atual]).
+
+· Na aba de alistamento deve-se pedir:
+  → Nome completo.
+  → Data de nascimento (DD/MM/AA).
+  → CPF.
+  → RG.
+  → Nome completo da mãe.
+  → Nome completo do pai.
+  → E-mail.
+  → Telefone celular.
+
+  → Naturalidade
+    - Estado onde residência.
+    - CEP
+    - Comprovante de Residência
+    - Cidade onde reside.
+    - Nome do bairro onde reside.
+    - Nome da rua onde reside.
+    - Número da casa (Deve ter a opção de "Sem número").
+
+  → Escolaridade
+    - Última escola em que estudou
+    - Ensino Fundamental Incompleto.
+    - Ensino Fundamental Completo.
+    - Ensino Médio Incompleto.
+    - Ensino Médio Completo.
+    - Ensino Superior Incompleto.
+    - Ensino Superior Completo.
+
+  → Perfil Social
+    - Profissão.
+    - Estado Civil.
+    - Religião
+
+  → Característica Físicas
+    - Altura.
+    - Peso
+
+  → Escolha
+    - Deseja prestar o Serviço Militar ?
+	   [1] - Sim
+	   [2] - Não
